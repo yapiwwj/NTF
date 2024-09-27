@@ -1,0 +1,74 @@
+._ul.data-v-6f75dfe1 {
+  padding: 0;
+}
+._ul ._li.data-v-6f75dfe1 {
+  list-style: none;
+  position: relative;
+  width: 95%;
+  border-radius: 32rpx;
+  margin: 20rpx auto;
+}
+._ul ._li image.data-v-6f75dfe1 {
+  width: 100%;
+  border-radius: 32rpx;
+}
+._ul ._li .font.data-v-6f75dfe1 {
+  position: absolute;
+  top: 30rpx;
+  left: 30rpx;
+}
+._ul ._li .font ._h3.data-v-6f75dfe1 {
+  color: #ffff;
+  margin-bottom: 0;
+}
+._ul ._li .font ._p.data-v-6f75dfe1 {
+  color: #ffff;
+  font-size: 30rpx;
+  margin: 20rpx 0;
+}
+._ul ._li .card.data-v-6f75dfe1 {
+  display: flex;
+}
+._ul ._li .card .type.data-v-6f75dfe1,
+._ul ._li .card .carrier.data-v-6f75dfe1 {
+  color: #fff;
+  font-size: 24rpx;
+  background-color: rgba(255, 255, 255, 0.3);
+  border: 2rpx solid #fff;
+  border-radius: 10rpx;
+  padding: 10rpx;
+  margin-right: 20rpx;
+}
+._ul ._li ._footer.data-v-6f75dfe1 {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  border-radius: 0 0 32rpx 32rpx;
+  background-color: rgba(44, 44, 48, 0.8);
+}
+._ul ._li ._footer .left.data-v-6f75dfe1 {
+  float: left;
+}
+._ul ._li ._footer .left ._ul.data-v-6f75dfe1 {
+  display: flex;
+}
+._ul ._li ._footer .left ._ul ._p.data-v-6f75dfe1 {
+  width: 200rpx;
+  color: #fff;
+  font-size: 28rpx;
+  margin: 0;
+}
+._ul ._li ._footer .right.data-v-6f75dfe1 {
+  position: absolute;
+  right: 10rpx;
+  top: 12%;
+}
+._ul ._li ._footer .right button.data-v-6f75dfe1 {
+  font-size: 24rpx;
+  color: #fff;
+  border-radius: 32rpx;
+  border: none;
+  background: linear-gradient(to right, #024bff, #a8c0e8);
+  padding: 0 40rpx;
+}
+

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "验证码",
+  "usingComponents": {
+    "u-toast": "/uni_modules/uview-ui/components/u-toast/u-toast",
+    "u-code-input": "/uni_modules/uview-ui/components/u-code-input/u-code-input",
+    "u-count-down": "/uni_modules/uview-ui/components/u-count-down/u-count-down",
+    "u-button": "/uni_modules/uview-ui/components/u-button/u-button"
+  }
+}

@@ -1,0 +1,7 @@
+._ul.data-v-b9d5bdd4{padding:0}._ul ._li.data-v-b9d5bdd4{list-style:none;position:relative;width:90%;border-radius:16rpx;border:2rpx solid #cfcfcf;box-shadow:10rpx 4rpx 10rpx #cfcfcf;margin:20rpx auto}._ul .image.data-v-b9d5bdd4{margin-top:40rpx}._ul .image image.data-v-b9d5bdd4{position:absolute;right:70rpx;top:10rpx;width:70rpx}._ul .username ._p.data-v-b9d5bdd4,
+._ul .phone ._p.data-v-b9d5bdd4,
+._ul .pay ._p.data-v-b9d5bdd4,
+._ul .sm ._p.data-v-b9d5bdd4,
+._ul .password ._p.data-v-b9d5bdd4{position:absolute;right:70rpx;top:24rpx;color:#8a8d96;font-size:26rpx;margin:0}._ul .sm .none image.data-v-b9d5bdd4,
+._ul .password .none image.data-v-b9d5bdd4{position:absolute;right:170rpx;top:38rpx;width:10rpx}._ul .sm .done image.data-v-b9d5bdd4,
+._ul .password .done image.data-v-b9d5bdd4{position:absolute;right:170rpx;top:22rpx;width:40rpx}

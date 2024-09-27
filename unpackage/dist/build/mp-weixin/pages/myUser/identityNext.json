@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "实名认证",
+  "usingComponents": {
+    "u--input": "/uni_modules/uview-ui/components/u--input/u--input",
+    "u-keyboard": "/uni_modules/uview-ui/components/u-keyboard/u-keyboard",
+    "u-button": "/uni_modules/uview-ui/components/u-button/u-button"
+  }
+}

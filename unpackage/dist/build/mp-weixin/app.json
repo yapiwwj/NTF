@@ -1,0 +1,78 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/RegisterAndLogin/login",
+    "pages/RegisterAndLogin/forgetPassword",
+    "pages/RegisterAndLogin/emailVerification",
+    "pages/RegisterAndLogin/securityQuestion",
+    "pages/RegisterAndLogin/resetPassword",
+    "pages/RegisterAndLogin/register",
+    "pages/RegisterAndLogin/registerVerification",
+    "pages/myHome/index",
+    "pages/myHome/buy",
+    "pages/myHome/pay",
+    "pages/myHome/threeShow",
+    "pages/myCreate/index",
+    "pages/myCreate/workBench",
+    "pages/myUser/index",
+    "pages/myUser/threeLookCC",
+    "pages/myUser/threeLookVase",
+    "pages/myUser/certificate",
+    "pages/myUser/inquire",
+    "pages/myUser/inquireSuccess",
+    "pages/myUser/orders",
+    "pages/myUser/setting",
+    "pages/myUser/security",
+    "pages/myUser/identity",
+    "pages/myUser/identityNext",
+    "pages/myUser/success",
+    "pages/test/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#3c9cff",
+    "backgroundColor": "#3c9cff"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#3c9cff",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "height": "50px",
+    "fontSize": "10px",
+    "iconWidth": "24px",
+    "spacing": "3px",
+    "iconfontSrc": "static/iconfont.ttf",
+    "list": [
+      {
+        "pagePath": "pages/myHome/index",
+        "iconPath": "static/img/home.png",
+        "selectedIconPath": "static/img/home-blue.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/myCreate/index",
+        "iconPath": "static/img/create.png",
+        "selectedIconPath": "static/img/create-blue.png",
+        "text": "创造"
+      },
+      {
+        "pagePath": "pages/myUser/index",
+        "iconPath": "static/img/user.png",
+        "selectedIconPath": "static/img/user-blue.png",
+        "text": "我的"
+      }
+    ],
+    "midButton": {
+      "width": "80px",
+      "height": "50px",
+      "text": "文字",
+      "iconPath": "static/image/midButton_iconPath.png",
+      "iconWidth": "24px",
+      "backgroundImage": "static/image/midButton_backgroundImage.png"
+    }
+  },
+  "usingComponents": {}
+}

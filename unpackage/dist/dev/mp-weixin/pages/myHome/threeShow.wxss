@@ -1,0 +1,14 @@
+
+.content {
+	margin: 0;
+	overflow: hidden;
+}
+.three {
+	width: 100%;
+}
+#threeView{
+	width: 100%;
+	height: 90vh;
+}
+
+

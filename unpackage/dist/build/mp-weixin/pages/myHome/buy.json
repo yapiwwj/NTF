@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "购买",
+  "usingComponents": {
+    "u-icon": "/uni_modules/uview-ui/components/u-icon/u-icon",
+    "u--image": "/uni_modules/uview-ui/components/u--image/u--image"
+  }
+}

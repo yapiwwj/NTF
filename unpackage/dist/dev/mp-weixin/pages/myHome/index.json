@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "u-icon": "/uni_modules/uview-ui/components/u-icon/u-icon",
+    "u--input": "/uni_modules/uview-ui/components/u--input/u--input",
+    "u-swiper": "/uni_modules/uview-ui/components/u-swiper/u-swiper",
+    "u-tabs": "/uni_modules/uview-ui/components/u-tabs/u-tabs",
+    "recommend": "/components/home/recommend",
+    "new": "/components/home/new",
+    "hot": "/components/home/hot",
+    "selection": "/components/home/selection"
+  }
+}

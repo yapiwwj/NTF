@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "库管系统",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u--image": "/uni_modules/uview-ui/components/u--image/u--image",
+    "u-button": "/uni_modules/uview-ui/components/u-button/u-button"
+  }
+}

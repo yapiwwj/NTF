@@ -1,0 +1,114 @@
+.recommendBox ._header.data-v-51fdb0ab {
+  position: relative;
+  text-align: center;
+  font-size: 28rpx;
+  color: #2c2c2c;
+  margin: 20rpx 0 10rpx 0;
+}
+.recommendBox ._header .line1.data-v-51fdb0ab {
+  position: absolute;
+  top: 50%;
+  left: 35%;
+  width: 30rpx;
+  border: 2rpx solid #979797;
+}
+.recommendBox ._header .line2.data-v-51fdb0ab {
+  position: absolute;
+  top: 50%;
+  right: 35%;
+  width: 30rpx;
+  border: 2rpx solid #979797;
+}
+.recommendBox .todayBox.data-v-51fdb0ab {
+  display: flex;
+  justify-content: space-around;
+}
+.recommendBox .todayBox .infoBox.data-v-51fdb0ab {
+  width: 30%;
+  border-radius: 32rpx 32rpx 16rpx 16rpx;
+  box-shadow: 20rpx 10rpx 10rpx #cfcfcf;
+}
+.recommendBox .todayBox .infoBox image.data-v-51fdb0ab {
+  width: 100%;
+  border-radius: 32rpx 32rpx 0 0;
+}
+.recommendBox .todayBox .infoBox ._h5.data-v-51fdb0ab {
+  color: #3d3d3d;
+  font-size: 26rpx;
+  margin: 0;
+}
+.recommendBox .todayBox .infoBox ._p.data-v-51fdb0ab {
+  color: #b1b1b1;
+  font-size: 24rpx;
+  margin: 10rpx 0;
+}
+.recommendBox .todayBox .infoBox ._footer .flexBox.data-v-51fdb0ab {
+  display: flex;
+  justify-content: space-between;
+}
+.recommendBox .todayBox .infoBox ._footer .flexBox .left.data-v-51fdb0ab {
+  position: relative;
+  background-color: #ff6e00;
+  border-radius: 16rpx 0 0 0.5rem;
+  margin-bottom: 10rpx;
+}
+.recommendBox .todayBox .infoBox ._footer .flexBox .left .font.data-v-51fdb0ab {
+  font-size: 24rpx;
+  color: #fff;
+  text-align: center;
+  padding: 10rpx;
+}
+.recommendBox .todayBox .infoBox ._footer .flexBox .right.data-v-51fdb0ab {
+  color: #ff6e00;
+  font-size: 32rpx;
+  margin: 0 10rpx 10rpx 0;
+  text-align: center;
+}
+.recommendBox .treasuresBox.data-v-51fdb0ab {
+  display: flex;
+  justify-content: space-around;
+  margin-left: 30rpx;
+}
+.recommendBox .treasuresBox .treasureBox.data-v-51fdb0ab {
+  width: 90%;
+  border-radius: 32rpx 32rpx 16rpx 16rpx;
+  box-shadow: 20rpx 10rpx 10rpx #cfcfcf;
+  margin-bottom: 20rpx;
+}
+.recommendBox .treasuresBox .treasureBox image.data-v-51fdb0ab {
+  width: 100%;
+  border-radius: 32rpx 32rpx 0 0;
+}
+.recommendBox .treasuresBox .treasureBox ._h5.data-v-51fdb0ab {
+  color: #3d3d3d;
+  font-size: 32rpx;
+  margin: 0;
+}
+.recommendBox .treasuresBox .treasureBox ._p.data-v-51fdb0ab {
+  color: #b1b1b1;
+  font-size: 28rpx;
+  margin: 10rpx 0;
+}
+.recommendBox .treasuresBox .treasureBox ._footer .tflexBox.data-v-51fdb0ab {
+  display: flex;
+  justify-content: space-between;
+}
+.recommendBox .treasuresBox .treasureBox ._footer .tflexBox .tLeft.data-v-51fdb0ab {
+  position: relative;
+  background-color: #ff6e00;
+  border-radius: 16rpx 0 0 16rpx;
+  margin-bottom: 12rpx;
+}
+.recommendBox .treasuresBox .treasureBox ._footer .tflexBox .tLeft .tfont.data-v-51fdb0ab {
+  font-size: 28rpx;
+  color: #fff;
+  text-align: center;
+  padding: 10rpx;
+}
+.recommendBox .treasuresBox .treasureBox ._footer .tflexBox .tRight.data-v-51fdb0ab {
+  color: #ff6e00;
+  font-size: 36rpx;
+  margin: 0 10rpx 10rpx 0;
+  text-align: center;
+}
+

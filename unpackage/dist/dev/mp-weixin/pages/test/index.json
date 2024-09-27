@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "1111",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "test": "/components/test/test"
+  }
+}
